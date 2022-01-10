@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "TestTimeout",
+			"path": "C:\\Users\\giaco\\OneDrive\\Documenti\\PlatformIO\\Projects\\TestTimeout"
+		},
+		{
+			"name": "Websocket",
+			"path": "c:\\Users\\giaco\\OneDrive\\Documenti\\PlatformIO\\Projects\\Websocket"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"new": "cpp"
+		}
+	}
+}
